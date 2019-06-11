@@ -1,0 +1,6 @@
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe.config
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.exe
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\bin\Debug\FactoryMethodDesignPattern.pdb
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.csprojResolveAssemblyReference.cache
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.exe
+F:\Git Repos\Design Patterns\FactoryMethodDesignPattern\FactoryMethodDesignPattern\obj\Debug\FactoryMethodDesignPattern.pdb
